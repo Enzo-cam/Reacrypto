@@ -1,0 +1,9 @@
+:root {
+  --principal--color: #0d2235;
+}
+
+body{
+  background-color: var(--principal--color);
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
